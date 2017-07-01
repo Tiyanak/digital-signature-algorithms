@@ -1,0 +1,15 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	Dekriptirana omotnica
+
+File name:
+	C:\Users\Igor Farszky\PycharmProjects\NOS_digitalni_pecat\dokumenti\izlaz.txt
+
+Method:
+	DES
+	RSA
+
+Data:
+	ja sam najbolji na svijetu aaaa vvv             
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,15 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	DES kriptiranje
+
+File name:
+	C:\Users\Igor Farszky\PycharmProjects\NOS_digitalni_pecat\dokumenti\des_izlaz.txt
+
+Method:
+	DES
+
+Data:
+	5816851BF6B764DA59BF40739B70F00917B98B5D3DA2115BDECA424A3B52
+	D8FB
+
+---END OS2 CRYPTO DATA---

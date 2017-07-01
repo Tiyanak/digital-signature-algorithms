@@ -1,0 +1,14 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+        Data
+
+Method:
+        AES
+
+File name:
+        ulaz.txt
+
+Data:
+        ja sam najbolji na svijetu aaaa vvv333
+
+---END OS2 CRYPTO DATA---

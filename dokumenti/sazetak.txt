@@ -1,0 +1,14 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	Data hash
+
+File name:
+	C:\Users\Igor Farszky\PycharmProjects\NOS_digitalni_pecat\dokumenti\sazetak.txt
+
+Method:
+	SHA-1
+
+Digest:
+	9E5303E6FC70C0A46485B4457CB1AE38F051B7DF
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,14 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	DES dekriptiranje
+
+File name:
+	C:\Users\Igor Farszky\PycharmProjects\NOS_digitalni_pecat\dokumenti\des_ulaz.txt
+
+Method:
+	DES
+
+Data:
+	eci peci pec bjezu u rupu zec   
+
+---END OS2 CRYPTO DATA---

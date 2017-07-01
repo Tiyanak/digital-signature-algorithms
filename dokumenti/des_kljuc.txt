@@ -1,0 +1,11 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+	Secret key
+
+Method:
+	DES
+
+Secret key:
+	C263A4CFD7E7DB7C
+
+---END OS2 CRYPTO DATA---
